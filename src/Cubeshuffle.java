@@ -11,6 +11,7 @@ public class Cubeshuffle {
 			int i = random.nextInt(12);
 			System.out.print(moves[i]);
 			n--;
+			//random comment to check to see if editing works
 		}
 	}
 
