@@ -13,7 +13,8 @@ public class testproram2 {
 			System.out.println(x);
 			System.out.println();
 		}
-		
+		//randomcomment
+		scanner.close();
 		
 	}
 
