@@ -5,7 +5,7 @@ public class Cubeshuffle {
 		
 		Random random = new Random();
 		String[] moves = {"R","R'","L","L'","U","U'","F","F'","B","B'","D","D'"};
-		int n = random.nextInt(10,20);
+		int n = random.nextInt(15,30);
 		
 		while(n!=0) {
 			int i = random.nextInt(12);
